@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE04OSPS-SF01B-3B-OPTAAD105-streamed-optaa_status
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Status Data<br>
+Instrument Group Code: OPTAA<br>
